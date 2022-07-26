@@ -77,7 +77,8 @@ To create a nested list one should simply do a list inside other list. To create
 
 ## Working with Images and creating presentation in LaTeX
 Working with images in LaTeX is a bit painful as placing the image into correct place on the page may be tricky. To insert the image on the page the following command is required ```\includegraphics[parametres]{file_name}```. However, to insert the image into the text(to the right or to the left) package wrapfig is required. The main problem is that you cannot place the image using cursor, but have to measure how wide you want you picture to be. For example, the following commands 
-```\begin{wrapfigure}{l}{0.4\textwidth}
+```
+    \begin{wrapfigure}{l}{0.4\textwidth}
         \centering
         \includegraphics[width=0.4\textwidth]{image.png}
         \caption{Caption}
