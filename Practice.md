@@ -107,4 +107,4 @@ Nevertheless, the user is forced to choose from slide themes from the [list](htt
 Overall, LaTeX turned out to be simplier, than I thought. Whereas working with text, while writting an article for example, is quite fast(may be as fast as writting by hand, depending on you typing skills), the time required for writting down math formulas is a way longer, which makes LaTeX not the best option for solving homeworks, however LaTeX is a good option for teachers, when they need to make homework page readable for everyone. As for presentations in LaTeX, personally, I believe, that making a power point presentation is easier and faster, espessially, when it has a lot of images to hadle, since moving them with cursor is a way faster. 
 
 ## Contacts 
-[telegram](tg:https://t.me/PapaVad)
+tg:@PapaVad
